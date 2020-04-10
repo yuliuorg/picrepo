@@ -1,2 +1,2 @@
 # picrepo
-personal picture repository
+public picture repository
